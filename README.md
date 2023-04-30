@@ -11,5 +11,5 @@ const Informacion = {
 </p>
 
 <p align="center">
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyrandy708&layout=compact&theme=radical">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyrandy708&layout=compact&theme=radical">
 </p>
